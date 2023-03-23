@@ -17,6 +17,7 @@ A design patterns are well-proved solution for solving the specific problem/task
 Create object without exposing the creating logic to the client and refer to newley created object using a common interface.
 
 ![img.png](img.png)
+
 ## - **Create New Branch and Push It**
 
 * `git checkout -b <your-new-branch>`
