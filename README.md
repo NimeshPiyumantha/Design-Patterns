@@ -8,11 +8,10 @@ A design patterns are well-proved solution for solving the specific problem/task
 
 ### Basically, design patterns are categorized into two parts:
 
-#### *1. Core Java (or JSE) Design Patterns.*
+ #### *1. Core Java (or JSE) Design Patterns.*
+ #### *2. JEE Design Patterns.*
 
-#### *2. JEE Design Patterns.*
-
-### **Core Java Design Patterns**
+## **Core Java Design Patterns**
 
 #### In core java, there are mainly three types of design patterns, which are further divided into their sub-parts:
 
