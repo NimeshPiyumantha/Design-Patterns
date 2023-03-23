@@ -50,6 +50,7 @@ A design patterns are well-proved solution for solving the specific problem/task
 * Template Pattern
 * Visitor Pattern
 
+
 ## - **Create New Branch and Push It**
 
 * `git checkout -b <your-new-branch>`
