@@ -7,16 +7,16 @@ A design patterns are well-proved solution for solving the specific problem/task
 
 ### 1. Creational Design Pattern
 * Singleton Pattern
-* ***Factory Pattern***
-* Object Pool
+* Factory Pattern
+* ***Object Pool***
 * Abstract Factory Pattern
 * Prototype Pattern
 * Builder Pattern
 
-### **Factory Pattern**
-Create object without exposing the creating logic to the client and refer to newley created object using a common interface.
+### **Object Pool**
+This pattern uses to create a set of initialise object kept ready to use.
 
-![img.png](img.png)
+
 
 ## - **Create New Branch and Push It**
 
