@@ -5,10 +5,10 @@ A design patterns are well-proved solution for solving the specific problem/task
 [![wakatime](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/93512f37-50d9-41ad-845d-15440dc23897.svg)](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/93512f37-50d9-41ad-845d-15440dc23897)
 
 # **Categorization OF Design Patterns**
-Basically, design patterns are categorized into two parts:
+### Basically, design patterns are categorized into two parts:
 
-### 1. Core Java (or JSE) Design Patterns.
-### 2. JEE Design Patterns.
+  ####   *1. Core Java (or JSE) Design Patterns.*
+  ####   *2. JEE Design Patterns.*
 
 ## - **Create New Branch and Push It**
 
