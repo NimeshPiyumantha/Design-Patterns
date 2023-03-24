@@ -11,15 +11,15 @@ A design patterns are well-proved solution for solving the specific problem/task
 * Factory Pattern
 * Object Pool
 * Abstract Factory Pattern
-* ***Prototype Pattern***
-* Builder Pattern
+* Prototype Pattern
+* ***Builder Pattern***
 
-### **Prototype Pattern**
-Prototype Pattern says that ***cloning of an existing object instead of creating new one and can also be customized as per the requirement.***
+### **Builder Pattern**
+Builder pattern builds a complex object using simple objects and using a step by step approach. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
 
-This pattern should be followed, if the cost of creating a new object is expensive and resource intensive.
+A Builder class builds the final object step by step. This builder is independent of other objects.
 
-![img.png](img.png)
+
 
 ## - **Create New Branch and Push It**
 
