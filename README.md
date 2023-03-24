@@ -4,6 +4,7 @@ A design patterns are well-proved solution for solving the specific problem/task
 
 [![wakatime](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/93512f37-50d9-41ad-845d-15440dc23897.svg)](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/93512f37-50d9-41ad-845d-15440dc23897)
 
+![img.png](img.png)
 
 ### 1. Creational Design Pattern
 * Singleton Pattern
