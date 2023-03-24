@@ -8,5 +8,5 @@ package service;
  * @since : 0.1.0
  **/
 public abstract class AbstractFactory {
-    protected abstract Shape getShape(String shapeType);
+    public abstract Shape getShape(String shapeType);
 }
