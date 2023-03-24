@@ -17,6 +17,7 @@ A design patterns are well-proved solution for solving the specific problem/task
 This pattern involves a single class which is responsible to create and object while sure that only single object gets created.
 
 ![img.png](img.png)
+
 ## - **Create New Branch and Push It**
 
 * `git checkout -b <your-new-branch>`
