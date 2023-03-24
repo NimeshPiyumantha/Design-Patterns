@@ -19,7 +19,7 @@ Builder pattern builds a complex object using simple objects and using a step by
 
 A Builder class builds the final object step by step. This builder is independent of other objects.
 
-
+![img.png](img.png)
 
 ## - **Create New Branch and Push It**
 
