@@ -1,4 +1,4 @@
-package service;
+package service.abstracet;
 
 import service.interfaces.Item;
 import service.interfaces.Packing;

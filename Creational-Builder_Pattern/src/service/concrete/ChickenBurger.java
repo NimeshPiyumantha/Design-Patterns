@@ -1,6 +1,6 @@
 package service.concrete;
 
-import service.Burger;
+import service.abstracet.Burger;
 
 /**
  * @author : Nimesh Piyumantha
