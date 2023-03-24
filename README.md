@@ -19,6 +19,7 @@ Prototype Pattern says that ***cloning of an existing object instead of creating
 
 This pattern should be followed, if the cost of creating a new object is expensive and resource intensive.
 
+![img.png](img.png)
 
 ## - **Create New Branch and Push It**
 
