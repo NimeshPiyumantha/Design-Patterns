@@ -4,20 +4,7 @@ A design patterns are well-proved solution for solving the specific problem/task
 
 [![wakatime](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/93512f37-50d9-41ad-845d-15440dc23897.svg)](https://wakatime.com/badge/user/bde2acba-42bd-46e8-a905-d74c6f260407/project/93512f37-50d9-41ad-845d-15440dc23897)
 
-# **Categorization OF Design Patterns**
-
-### Basically, design patterns are categorized into two parts:
-
- #### *1. Core Java (or JSE) Design Patterns.*
- #### *2. JEE Design Patterns.*
-
-## **Core Java Design Patterns**
-
-#### In core java, there are mainly three types of design patterns, which are further divided into their sub-parts:
-
-1. Creational Design Pattern
-2. Structural Design Pattern
-3. Behavioral Design Pattern
+![img.png](img.png)
 
 ### 1. Creational Design Pattern
 * Singleton Pattern
@@ -25,30 +12,14 @@ A design patterns are well-proved solution for solving the specific problem/task
 * Object Pool
 * Abstract Factory Pattern
 * Prototype Pattern
-* Builder Pattern
+* ***Builder Pattern***
 
-### 2. Structural Design Pattern
-* Facade Pattern
-* Front Controller
-* Adapter Pattern
-* Bridge Pattern
-* Composite Pattern
-* Decorator Pattern
-* Flyweight Pattern
-* Proxy Pattern
+### **Builder Pattern**
+Builder pattern builds a complex object using simple objects and using a step by step approach. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object.
 
-### 3. Behavioral Design Pattern
-* Strategy Pattern
-* Observer Pattern
-* State Pattern
-* Chain Of Responsibility Pattern
-* Command Pattern
-* Interpreter Pattern
-* Iterator Pattern
-* Mediator Pattern
-* Memento Pattern
-* Template Pattern
-* Visitor Pattern
+A Builder class builds the final object step by step. This builder is independent of other objects.
+
+![img.png](img.png)
 
 
 ## - **Create New Branch and Push It**
