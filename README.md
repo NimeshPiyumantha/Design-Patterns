@@ -10,13 +10,14 @@ A design patterns are well-proved solution for solving the specific problem/task
 * Singleton Pattern
 * Factory Pattern
 * Object Pool
-* ***Abstract Factory Pattern***
-* Prototype Pattern
+* Abstract Factory Pattern
+* ***Prototype Pattern***
 * Builder Pattern
 
-### **Abstract Factory Pattern**
-Abstract Factory Pattern says that just **define an interface or abstract class for creating families of related (or dependent) objects but without specifying their concrete sub-classes.** That means Abstract Factory lets a class returns a factory of classes. So, this is the reason that Abstract Factory Pattern is one level higher than the Factory Pattern.
+### **Prototype Pattern**
+Prototype Pattern says that ***cloning of an existing object instead of creating new one and can also be customized as per the requirement.***
 
+This pattern should be followed, if the cost of creating a new object is expensive and resource intensive.
 
 
 ## - **Create New Branch and Push It**
